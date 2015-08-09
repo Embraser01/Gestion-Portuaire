@@ -1,0 +1,7 @@
+Formulaires : Ajout compagnie/clients/navires/escales/mouvements w/ Verif date et charge max. ==> Uniquement par les agents portuaires.
+
+Interfaces :
+ - Client avec les infos le concernant ( il a un conteneur).
+ - Compagnie avec les infos la concernant ( navires,...).
+ - Agent portuaire avec tout.
+ 
