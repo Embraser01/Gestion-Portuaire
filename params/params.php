@@ -1,9 +1,9 @@
 <?php
 
 /* Base de données : */
-$host = "localhost";
-$user = "root";
-$password = "fusco";
-$dbName = "port";
+$host = "xxxxxxx";
+$user = "xxxxxxx";
+$password = "xxxxx";
+$dbName = "xxxxx";
 
 ?>
